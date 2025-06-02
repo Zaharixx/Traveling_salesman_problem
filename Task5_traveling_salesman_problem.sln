@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task5_traveling_salesman_problem", "Task5_traveling_salesman_problem\Task5_traveling_salesman_problem.vcxproj", "{F114EF0D-3388-46F4-9570-C6E329A63452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Debug|x64.ActiveCfg = Debug|x64
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Debug|x64.Build.0 = Debug|x64
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Debug|x86.ActiveCfg = Debug|Win32
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Debug|x86.Build.0 = Debug|Win32
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Release|x64.ActiveCfg = Release|x64
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Release|x64.Build.0 = Release|x64
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Release|x86.ActiveCfg = Release|Win32
+		{F114EF0D-3388-46F4-9570-C6E329A63452}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9222A9-31AC-4A7D-85FD-ECFCAEC23FED}
+	EndGlobalSection
+EndGlobal
